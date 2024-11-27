@@ -12,7 +12,7 @@ This repository contains the necessary files to set up an Apache Spark cluster u
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/yourusername/spark-docker-setup.git
+    git clone https://github.com/isangwanrahul/spark-docker-setup.git
     cd spark-docker-setup
     ```
 
